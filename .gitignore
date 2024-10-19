@@ -39,3 +39,6 @@ temp/
 
 # OS-specific files (Windows)
 Thumbs.db
+
+# Local Netlify folder
+.netlify
